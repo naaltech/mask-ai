@@ -1,0 +1,25 @@
+body {
+                font-family: 'Roboto', sans-serif;
+                font-size: 12px;
+                font-weight: bold;
+                text-align: justify;
+                min-height: 800px;
+                background-color: #0F1220;
+                color: white;
+            }
+            #all {
+                width: 600px;
+                height: 300px;
+                padding: 20px;
+                position: relative;
+                margin: auto;
+            }
+            h1{
+              font-size: 30px;
+            }
+            p{
+              font-size: 20px;
+            }
+            h3{
+              font-size: 30px;
+            }
